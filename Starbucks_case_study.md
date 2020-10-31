@@ -34,5 +34,7 @@ Also, Starbucks is embracing the digital disruption that is caused by emerging t
 ---
 **What is the prognosis for this company? Where do they expect to be in the future?**
 
-In the near future, we are able to expect predictive drive through ordering with the use of internet of things which is connected to their coffee machine which will further boost their bean to cup tracking. 
+In the near future, we are able to expect predictive drive through ordering with the use of internet of things which is connected to their coffee machine which will further boost their bean to cup tracking. Also, These IoT-enabled machines could then collect more than a dozen data points for every shot of coffee pulled, including the type of beans, the temperature of a cup of coffee and water quality.
+
+Moreover, they are also looking at predictive drive-thru ordering where the app, which already makes suggestions based on previous orders, would extend to digital billboards. This could well be the foundation for facial recognition and targeted recommendations, but that is not being talked about just yet.
 
