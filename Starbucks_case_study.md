@@ -27,7 +27,9 @@ Starbucks has long been committed to ethical sourcing for its coffee beans digit
 ---
 **Why is this company exemplary in the FinTech space? What are their strengths and weaknesses?**
 
-Their main strenght would be the 100% digital transperancy plan which would improve their brand image as it gives their consumers full transperancy as it  allows them to view the real time tracebility.
+Their main strenght would be the 100% digital transperancy plan which would improve their brand image as it gives their consumers full transperancy as it  allows them to view the real time tracebility.The mobile app will show customers information about where their packaged coffee comes from, where it was grown and what Starbucks is doing to support farmers in those locations. It will also include where and when the coffee was roasted, associated  tasting notes and other details.
+
+Also, Starbucks is embracing the digital disruption that is caused by emerging tecnologies. As, Starbucks is among a growing number of produce retailers to let customers trace their food's journey from farm to store shelf. For example, IBM's blockchain-based Food Trust blockchain network, launched in August 2017, is used by more than two dozen food retailers and suppliers, including Dole, Driscoll's, Golden State Foods, Kroger, McCormick and Company, Nestlé, Tyson Foods, Unilever and Walmart.
 
 ---
 **What is the prognosis for this company? Where do they expect to be in the future?**
